@@ -29,7 +29,6 @@ trading right now. we can more financial product from which we will make people 
 For origins platform, there are broadly two-aspect 
 
 1)project who are going to launch projects on origins 
-
 2)users who are going to invest in projects through the origins platform 
 
 ### project who are going to launch projects on origins ### 
@@ -78,9 +77,9 @@ As far as the current bitocracy model the Stakers are incentivized fair enough.
 ## Conclusion ##
 This paper has explored many ways to improve the sovryn protocol  
 In all aspects at the current conditions of the sovryn ecosystem.
-
 It is my hope the research presented in this paper has served the purpose to solve the current problem 
 
 ## refernces ##
 1.https://raydium.medium.com/introducing-acceleraytor-536574aae1c0
+
 2.https://github.com/dxiri/Sovrython-Research/blob/main/increase_sovryn_tvl.md
