@@ -81,3 +81,6 @@ In all aspects at the current conditions of the sovryn ecosystem.
 
 It is my hope the research presented in this paper has served the purpose to solve the current problem 
 
+## refernces ##
+1.https://raydium.medium.com/introducing-acceleraytor-536574aae1c0
+2.https://github.com/dxiri/Sovrython-Research/blob/main/increase_sovryn_tvl.md
